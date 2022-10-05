@@ -1,0 +1,8 @@
+32, trasua, 9000, 100, Available
+2, banhngot, 1000, 10, Not available
+4, banhquy, 1000, 20, Available
+23, trachanh, 2000, 2, Available
+11, tradao, 1000, 2, Available
+45, tracam, 990, 2, Not available
+
+123, TRACHANH, 299, 20, Available
